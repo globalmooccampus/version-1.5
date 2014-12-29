@@ -1,0 +1,3 @@
+Global MOOC Campus Website project started in April 2014. The purpose of this website is to curate courses from major MOOC platforms such as Coursra,edX, Udacity and Future Learn and let students or learners make study groups. There is also an option of translating course details to Korean language.We are open sourcing our initial website.
+
+한국어 학습자를 대상으로 MOOC 튜터링 / 학습 플랫폼을 개발합니다. 누구든지 개발 및 디자인, 번역에 함께 참여하실 수 있습니다.

@@ -1,0 +1,22 @@
+{
+    "name": "globalmooccampus/version-1.5",
+    "type": "project",
+    "description": "Global MOOC Campus PHP application",
+    "keywords": ["skeleton", "boilerplate", "naked", "barebone", "application"],
+    "homepage": "https://globalmooccampus.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hassan Abid",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/globalmooccampus/version-1.5/issues",
+        "source": "https://github.com/globalmooccampus/version-1.5"
+    },
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "credit": "Initial Setup Adopted from @link https://github.com/panique/mini/"
+}
